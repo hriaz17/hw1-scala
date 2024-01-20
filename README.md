@@ -32,14 +32,14 @@ the class `InvertedIndex`. These functions should return the documents as asked 
 
 Also, you **should not edit** these files:
 - `src/main/resources/Docs.txt`
-- `src/test/csc583/TestQ5.java`
+- `src/test/scala/csc583/TestQ5.scala`
 
 **Note: The file `src/main/resources/Docs.txt` is the input file you must use (or would have started using) as per assignment guidelines. Please don't edit it.**
 
 
 # Test your code
 
-Tests have been provided for you in the `src/test/scala/TestQ5.java` file.
+Tests have been provided for you in the `src/test/scala/csc583/TestQ5.scala` file.
 To run all the provided tests, run the ``sbt test`` script from the top project directory which contains a file named `build.sbt`.
 
 For more information on sbt, see: https://www.scala-sbt.org/1.x/docs/Getting-Started.html
